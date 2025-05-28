@@ -62,6 +62,7 @@ config.cfg
 *.sentinel
 [ms]p/game/**/bin
 *.lib
+!jpeg-static.lib
 *.pdb
 [ms]p/game/*/cfg/server_blacklist.txt
 [ms]p/game/*/sound/sound.cache
