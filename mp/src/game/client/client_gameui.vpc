@@ -206,6 +206,6 @@ $Project
 	
 	$Folder "Link Libraries"
 	{
-		$Lib jpeg
+		$Lib jpeg-static
 	}
 }
