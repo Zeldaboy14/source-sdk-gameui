@@ -2,7 +2,8 @@
 The Alien Swarm UI, avaliable for sdk 2013 sp and mp
 
 Current issues:
-Crashs on main menu (singleplayer)
+Multiplayer still has weird issues. TODO: Grab clean files and fix
+Insure both sp and mp's mem files can build in vs2013 and vs2022. vs2013 only atm
 
                SOURCE 1 SDK LICENSE
 
